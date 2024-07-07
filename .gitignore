@@ -1,0 +1,22 @@
+# IntelliJ folders
+.idea/
+*.iml
+*.iws
+
+# Maven folders
+.mvn/
+
+# Specific files
+HELP.md
+mvnw
+mvnw.cmd
+
+# Specific folders
+/config/
+/AxonServer-2024.0.3/
+/target/
+
+
+#Personal Files
+CompletionCertificate.pdf
+CqrsKafkaRepoLinkFromSeanCampbell.txt
